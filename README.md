@@ -15,6 +15,8 @@
    <li>get Eelement by ID</li>  
    <li>query Selector</li>  
    <li>Inner HTML and Inner Text</li>  
+   <li>Attributes</li>
+   <li>Append and Append Child</li>
    <li>Changing Styles</li>  
    <li>Class list</li>  
    <li>Creating/Removing/Element</li>  
