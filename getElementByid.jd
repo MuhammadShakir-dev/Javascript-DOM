@@ -1,0 +1,19 @@
+// lets haev a lookn on how to take element by its id in js.
+
+//HTML
+
+/*
+ <h1>Welcome Muhammad Shakir dev</h1>
+    <p>
+      <b id="bold">Lorem ipsum dolor sit amet consectetur,</b> adipisicing elit. Cumque facere
+      iure optio atque! Omnis quam amet totam aliquam magnam, ad iusto. Facilis,
+      tempora nam? Laborum ipsa quos ratione sint odit.
+    </p>
+    <button>Say Hi</button>
+
+*/
+
+
+//js
+const findB = document.getElementById("bold");
+findb;
